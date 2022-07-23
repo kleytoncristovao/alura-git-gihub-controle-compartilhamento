@@ -23,6 +23,3 @@
 ## Desenvolvedores/Contribuintes :octocat:
 
 [<img src="https://github.com/kleytoncristovao.png" width=115><br><sub>Kleyton Cristovão</sub>](https://github.com/kleytoncristovao) 
-
-
-<p align="center"> Copyright :copyright: 2022 - Formulário 2 responsivo com HTML e CSS </p>
