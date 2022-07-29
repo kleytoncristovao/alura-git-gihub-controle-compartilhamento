@@ -13,7 +13,6 @@
 
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
 
-
 ## Descrição do projeto 
 
 <p align="justify">
